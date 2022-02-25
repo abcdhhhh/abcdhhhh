@@ -1,6 +1,5 @@
 # Hello, world! 
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=abcdhhhh">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abcdhhhh&layout=compact&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api?username=abcdhhhh&show_icons=true&theme=tokyonight">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abcdhhhh&theme=black-ice">
