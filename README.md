@@ -6,4 +6,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=abcdhhhh&show_icons=true&theme=tokyonight" height="128">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abcdhhhh&theme=black-ice" height="128">
 <img src="https://activity-graph.herokuapp.com/graph?username=abcdhhhh" height="128">
+<img src="https://raw.githubusercontent.com/abcdhhhh/abcdhhhh/main/assets/github-contribution-grid-snake.svg" height=128>
 
